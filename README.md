@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on my own Discord bot and a game using Pygame  
   
 
-- 🌱 I’m currently learning Python and Luau (A variant of Lua)
+- 🌱 I’m currently learning Python and Luau (For Roblox Studio)
   
 
 - ⚡ Fun fact: I use spaces over tabs  
