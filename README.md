@@ -11,10 +11,10 @@ class SoftwareDeveloper:
         self.currentCodingLang = ["Python", "Luau"]
 
     def reply(self):
-        print("Go away.")
+        print("h")
 
 
-me = SoftwareEngineer()
+me = SoftwareDeveloper()
 me.reply()
 ```
 
