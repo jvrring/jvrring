@@ -8,7 +8,7 @@ class SoftwareDeveloper:
         self.role = "Software Developer"
         self.age = 17
         self.languageSpoken = ["en_GB"]
-        self.currentCodingLang = ["Python", "Luau"]
+        self.currentLang = ["Python", "Luau"]
 
     def reply(self):
         print("h")
