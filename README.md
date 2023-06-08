@@ -8,7 +8,6 @@ class SoftwareDeveloper:
         self.role = "Software Developer"
         self.age = 17
         self.languageSpoken = ["en_GB"]
-        self.currentLang = ["Python", "Luau"]
 
     def reply(self):
         print("h")
@@ -17,15 +16,23 @@ class SoftwareDeveloper:
 me = SoftwareDeveloper()
 me.reply()
 ```
+<br/>
+
+## My languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,py,lua" />
+  </a>
+</p>
+<br/>
+
+## GitHub stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jvrring&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="center" /></div>  
 
 <br/>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jvrring&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="center" /></div>  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=nnyi4xjv833t6zznftzo40kb6&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true" /></div>  
+## Now playing
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=nnyi4xjv833t6zznftzo40kb6&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffffff&interchange=true&bar_color=ffffff&bar_color_cover=false" /></div> 
 
 <br/>  
 
