@@ -31,7 +31,7 @@ me.reply()
 
 <br/>
 
-## Now playing
+## Spotify
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=nnyi4xjv833t6zznftzo40kb6&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffffff&interchange=true&bar_color=ffffff&bar_color_cover=false" /></div> 
 
 <br/>  
