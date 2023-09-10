@@ -6,7 +6,6 @@ class SoftwareDeveloper:
     def __init__(self):
         self.name = "Jarad"
         self.role = "Software Developer"
-        self.age = 17
         self.languageSpoken = ["en_GB"]
 
     def reply(self):
