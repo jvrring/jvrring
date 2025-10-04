@@ -2,8 +2,6 @@
 
 studying CS & currently building [jar.rip](https://jar.rip/), a multi-purpose discord bot packed with a ton of useful features.
 
-also helping out at [rival.rest](https://rival.rest/) with some things.
-
 ###### languages
 [![My skills](https://skillicons.dev/icons?i=python,lua,typescript,js,haskell,java,html,css,md&theme=dark)](https://ad.jar.rip)
 
@@ -21,4 +19,4 @@ also helping out at [rival.rest](https://rival.rest/) with some things.
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=jvrring&color=7763fa" align="left" />
-</div>  
+</div>
