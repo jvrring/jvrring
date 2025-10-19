@@ -3,7 +3,7 @@
 studying CS & currently building [jar.rip](https://jar.rip/), a multi-purpose discord bot packed with a ton of useful features.
 
 ###### languages
-[![My skills](https://skillicons.dev/icons?i=python,lua,typescript,js,haskell,java,html,css,md&theme=dark)](https://ad.jar.rip)
+[![My skills](https://skillicons.dev/icons?i=python,lua,typescript,js,haskell,java,swift,html,css,md&theme=dark)](https://ad.jar.rip)
 
 ###### frameworks
 [![My skills](https://skillicons.dev/icons?i=nextjs,react,bootstrap,tailwindcss,fastapi&theme=dark)](https://ad.jar.rip)
